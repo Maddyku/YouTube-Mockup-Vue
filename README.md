@@ -1,9 +1,9 @@
 # YouTube-Mockup-Vue
-YouTube Mockup App with Vue Components. Coded along with Stephen Grider in Modern React with Redux Udemy Course (https://www.udemy.com/react-redux/).
+YouTube Mockup App with Vue Components and Vue Files. Coded along with Stephen Grider in Vue JS Essentials Udemy Course (https://www.udemy.com/course/vue-js-course/).
 
 Steps:
 
-**To Properly Start React App in the Browser:
+**To Properly Start Vue App in the Browser:
 
 1. Please clone or download this repo on to your desktop
 2. Open up a terminal window and CD into Youtube-Mockup-Vue directory 
